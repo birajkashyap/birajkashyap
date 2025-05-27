@@ -78,3 +78,5 @@ Full-stack developer with hands-on experience in building modern web application
 🔗 [Portfolio](https://birajkashyap.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/) • [GitHub](https://github.com/birajkashyap)
 
 ![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=birajkashyap&show_icons=true&theme=radical)
+
+![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=birajkashyap&show_icons=true&theme=radical)

@@ -43,10 +43,13 @@ Full-stack developer with hands-on experience in building modern web application
 
 ## 💼 Experience
 
-### Core Committee Member, Entrepreneurship Cell – VIT (2022 – 2025)
+### Backend Developer Intern, Imagineering Infotech (May 2025 – July 2025)
 
-- Organized hackathons, startup events, and technical workshops
-- Partnered with industry leaders to deliver insights and mentorship
+- Engineered scalable REST APIs using Node.js and PostgreSQL, improving response time by 40%
+- Implemented RBAC with JWT for 3 user roles, enhancing authorization flows and reducing access errors
+- Integrated WebSockets to deliver real-time updates across 2 dashboards, increasing engagement by 25%
+- Automated CI/CD with Docker and GitHub Actions, cutting release time by 60%
+- Collaborated in a 6-member agile team, ensuring 100% sprint completion and functional coverage
 
 ---
 

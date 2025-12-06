@@ -1,83 +1,99 @@
 # Hi, I'm Biraj Kashyap 👋
 
-Full-stack developer with hands-on experience in building modern web applications, a solid foundation in DevOps practices, and a growing interest in blockchain technology. I enjoy turning ideas into scalable, efficient products and constantly learning new tools and frameworks to expand my capabilities.
+Full-stack developer with a strong foundation in building modern web applications, experience in backend engineering, and growing expertise in DevOps and blockchain technologies. I enjoy designing scalable systems, crafting clean user experiences, and exploring new tools that push my capabilities further.
 
 ---
 
-## 🧑‍💻 About Me
+## 📇 Contact
 
-- 🎓 B.Tech in Computer Science @ VIT Vellore (2022–2026)
-- 💡 Interested in full-stack development, cloud-native architectures, and AI tools
-- 🌐 Currently building projects with TypeScript, React, Next.js, and exploring edge deployment using Cloudflare Workers
+📧 kashyapbiraj83@gmail.com 
+🔗 [Portfolio](https://birajkashyap.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/) • [GitHub](https://github.com/birajkashyap)
+
+---
+
+## 🎓 Education
+
+**Vellore Institute of Technology, Vellore**  
+*B.Tech in Computer Science Engineering* (2022–2026)  
+**CGPA:** 8.55 (Sem 6)
 
 ---
 
 ## 🔨 Projects
 
-### [AI Text Summarizer](https://ai-based-text-summariser-expander.vercel.app/)
+### **Prompt-Driven Email Productivity Agent** (Nov 2025)  
+**Tech:** Next.js, FastAPI, Python, TypeScript, Tailwind CSS, Vercel, Render  
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, Groq API
-
-- AI-powered tool using Groq's Mixtral model to generate concise summaries
-- Clean UI, adjustable summary length, and real-time processing
-- Deployed on Vercel for lightning-fast performance
-
-### [BlogStream](https://blog-stream-dusky.vercel.app/)
-
-**Tech:** React, Prisma, Tailwind CSS, Cloudflare Workers, PostgreSQL
-
-- Full-featured blogging platform with JWT authentication
-- Edge deployment using Cloudflare Workers for ultra-low latency
-- Real-time editing and efficient database management with Prisma
-
-### [IT-Firm App](https://it-firm-nu.vercel.app/)
-
-**Tech Stack:** Next.js, Google Sheets API, Tailwind CSS, Framer Motion
-
-- A sleek IT solutions platform with a unified Next.js frontend and backend.
-- Seamlessly integrates with Google Sheets API for dynamic data handling and lightweight CMS functionality.
-- Features smooth animations and transitions using Framer Motion for an enhanced user experience.
-- Designed with Tailwind CSS for a modern and responsive UI.
+- Engineered an AI automation system that processes inbox data, categorizes messages, extracts actionable insights, and drafts tailored replies  
+- Developed a modular *Prompt Brain* enabling customizable workflows for summarization, Q&A, and drafting  
+- Added a real-time chat interface for on-demand email generation and message analysis  
 
 ---
 
-## 💼 Experience
+### **Walletron – Unified Wallet Infrastructure** (Oct 2025)  
+**Tech:** Next.js 15, TypeScript, Tailwind CSS, Ethers.js, Solana Web3.js, Prisma, PostgreSQL, NextAuth.js, Vercel  
 
-### Backend Developer Intern, Imagineering Infotech (May 2025 – July 2025)
-
-- Engineered scalable REST APIs using Node.js and PostgreSQL, improving response time by 40%
-- Implemented RBAC with JWT for 3 user roles, enhancing authorization flows and reducing access errors
-- Integrated WebSockets to deliver real-time updates across 2 dashboards, increasing engagement by 25%
-- Automated CI/CD with Docker and GitHub Actions, cutting release time by 60%
-- Collaborated in a 6-member agile team, ensuring 100% sprint completion and functional coverage
+- Built a unified multi-chain wallet system supporting Ethereum & Solana with per-user wallet isolation  
+- Implemented real-time analytics dashboards, API key management, and secure authentication flows  
+- Added natural language wallet commands for transfers, balance lookups, and token operations  
 
 ---
+
+### **Nature Navigator** (Nov 2025)  
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Tailwind CSS  
+
+- Built a complete rental booking platform with real-time availability and automated reservation workflows  
+- Integrated Stripe for secure payments, refunds, and checkout  
+- Developed admin tooling for managing inventory, pricing, and schedules  
+
+---
+
+### **Online Payment System** (Aug 2025)  
+**Tech:** Next.js, Express.js, Node.js, Prisma, Turborepo, PostgreSQL  
+
+- Built a Paytm-style payment simulator with user, merchant, and bank flows  
+- Implemented webhook-driven real-time transaction processing  
+- Added tokenized routing for withdrawals, transfers, and balance updates  
+- Ensured accurate, auditable transaction logging via Prisma & PostgreSQL  
+
+---
+
 
 ## 📜 Certifications
 
-- [Full Stack Web Development in MERN Stack (Udemy)](http://ude.my/UC-21e6000f-65a6-443e-b23d-0bb86272a625)
+- Full Stack Web Development — MERN Stack  
+- Blockchain Developer — IBM SkillsNetwork  
 
 ---
 
 ## 🛠️ Skills
 
 **Languages:**  
-`JavaScript` `TypeScript` `Python` `C/C++` `Java` `Solidity`
+`JavaScript` `TypeScript` `C/C++` `Solidity`
 
-**Web Dev:**  
-`MongoDB` `Express` `React` `Node.js` `Next.js` `Prisma` `PostgreSQL`
+**Frameworks & Libraries:**  
+`React` `Next.js` `Express` `Prisma` `Tailwind CSS` `JWT`
+
+**Databases:**  
+`PostgreSQL` `MongoDB`
 
 **DevOps & Cloud:**  
-`Docker` `Kubernetes` `CI/CD` `AWS S3/EC2` `Cloudflare` `CDN`
+`Docker` `AWS (S3, EC2)` `Vercel` `Cloudflare`
 
-**Others:**  
-`WebSockets` `TailwindCSS` `Git` `GitHub` `Unix/Linux`
+**Tools:**  
+`Git` `Postman` `Unix/Linux` `WebSockets`
+
+**Core CS Subjects:**  
+`Operating Systems` `DBMS` `OOP` `Computer Networks` `DSA`
+
+**Problem Solving:**  
+Solved **200+ coding questions** across LeetCode, GeeksforGeeks, and CodeStudio  
 
 ---
 
 ## 🌐 Let's Connect
 
-📫 biraj.kashyap2022@vitstudent.ac.in  
+📧 biraj.kashyap2022@vitstudent.ac.in  
 🔗 [Portfolio](https://birajkashyap.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/) • [GitHub](https://github.com/birajkashyap)
 
 ![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=birajkashyap&show_icons=true&theme=radical)

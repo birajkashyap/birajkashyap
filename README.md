@@ -15,7 +15,7 @@ Full-stack developer with a strong foundation in building modern web application
 
 **Vellore Institute of Technology, Vellore**  
 *B.Tech in Computer Science Engineering* (2022–2026)  
-**CGPA:** 8.55 (Sem 6)
+**CGPA:** 8.55 (Sem 7)
 
 ---
 

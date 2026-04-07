@@ -1,68 +1,79 @@
 # Hi, I'm Biraj Kashyap 👋
 
-Full-stack developer with a strong foundation in building modern web applications, experience in backend engineering, and growing expertise in DevOps and blockchain technologies. I enjoy designing scalable systems, crafting clean user experiences, and exploring new tools that push my capabilities further.
+Full-stack developer focused on building scalable web applications, clean user experiences, and real-world production systems.  
+Strong experience across frontend, backend, and growing expertise in AI-driven workflows and system design.
 
 ---
 
 ## 📇 Contact
 
-📧 kashyapbiraj83@gmail.com 
-🔗 [Portfolio](https://birajkashyap.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/) • [GitHub](https://github.com/birajkashyap)
+📧 kashyapbiraj83@gmail.com  
+🔗 [Portfolio](https://birajkashyap.vercel.app/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/)  
+🔗 [GitHub](https://github.com/birajkashyap)
 
 ---
 
 ## 🎓 Education
 
 **Vellore Institute of Technology, Vellore**  
-*B.Tech in Computer Science Engineering* (2022–2026)  
-**CGPA:** 8.55 (Sem 7)
+B.Tech in Computer Science Engineering (2022–2026)  
+**CGPA:** 8.55  
 
 ---
 
-## 🔨 Projects
+## 💼 Experience
 
-### **Prompt-Driven Email Productivity Agent** (Nov 2025)  
-**Tech:** Next.js, FastAPI, Python, TypeScript, Tailwind CSS, Vercel, Render  
+### **Full-Stack Developer (Freelance)** — Nature Navigator  
+*Nov 2025 – Feb 2026*
 
-- Engineered an AI automation system that processes inbox data, categorizes messages, extracts actionable insights, and drafts tailored replies  
-- Developed a modular *Prompt Brain* enabling customizable workflows for summarization, Q&A, and drafting  
-- Added a real-time chat interface for on-demand email generation and message analysis  
-
----
-
-### **Walletron – Unified Wallet Infrastructure** (Oct 2025)  
-**Tech:** Next.js 15, TypeScript, Tailwind CSS, Ethers.js, Solana Web3.js, Prisma, PostgreSQL, NextAuth.js, Vercel  
-
-- Built a unified multi-chain wallet system supporting Ethereum & Solana with per-user wallet isolation  
-- Implemented real-time analytics dashboards, API key management, and secure authentication flows  
-- Added natural language wallet commands for transfers, balance lookups, and token operations  
+- Led end-to-end development of a production booking and payments platform for a multi-city chauffeur service  
+- Built responsive frontend using **Next.js, TypeScript, and Tailwind CSS**  
+- Implemented **secure authentication (NextAuth, OAuth, RBAC)** and session management  
+- Developed **dynamic pricing engine** using Google Distance Matrix API  
+- Integrated **Stripe payments** with webhook handling, retries, and idempotency  
+- Designed **PostgreSQL schema (Prisma)** with optimized relational modeling  
+- Built admin workflows for booking lifecycle and operations  
+- Deployed on **Vercel + Neon PostgreSQL**
 
 ---
 
-### **Nature Navigator** (Nov 2025)  
-**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Tailwind CSS  
+## 🚀 Projects
 
-- Built a complete rental booking platform with real-time availability and automated reservation workflows  
-- Integrated Stripe for secure payments, refunds, and checkout  
-- Developed admin tooling for managing inventory, pricing, and schedules  
+### **Prompt-Driven Email Productivity Agent**
+**Tech:** Next.js, FastAPI, Python, TypeScript  
 
----
-
-### **Online Payment System** (Aug 2025)  
-**Tech:** Next.js, Express.js, Node.js, Prisma, Turborepo, PostgreSQL  
-
-- Built a Paytm-style payment simulator with user, merchant, and bank flows  
-- Implemented webhook-driven real-time transaction processing  
-- Added tokenized routing for withdrawals, transfers, and balance updates  
-- Ensured accurate, auditable transaction logging via Prisma & PostgreSQL  
+- Built an AI system to process inbox data, extract insights, and generate contextual replies  
+- Designed a modular **prompt orchestration system** for summarization, Q&A, and drafting  
+- Developed real-time chat interface for email generation and analysis  
 
 ---
 
+### **Walletron — Unified Wallet Infrastructure**
+**Tech:** Next.js, TypeScript, Ethers.js, Solana Web3.js, PostgreSQL  
 
-## 📜 Certifications
+- Built a **multi-chain wallet system (Ethereum + Solana)** with per-user isolation  
+- Designed APIs for balances, transfers, and transaction workflows  
+- Implemented **natural-language interface** for blockchain actions  
+- Developed analytics dashboards and authentication systems  
 
-- Full Stack Web Development — MERN Stack  
-- Blockchain Developer — IBM SkillsNetwork  
+---
+
+### **Nature Navigator (Production System)**
+**Tech:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe  
+
+- Built a full booking platform with **real-time availability and automated workflows**  
+- Integrated secure payments, refunds, and checkout using Stripe  
+- Developed admin dashboard for pricing, inventory, and scheduling  
+
+---
+
+### **Online Payment System (Paytm-style)**
+**Tech:** Next.js, Node.js, Express, PostgreSQL  
+
+- Built a **payment simulation system** with user, merchant, and bank workflows  
+- Implemented webhook-driven transaction processing  
+- Ensured accurate and auditable transaction logging  
 
 ---
 
@@ -71,29 +82,41 @@ Full-stack developer with a strong foundation in building modern web application
 **Languages:**  
 `JavaScript` `TypeScript` `C/C++` `Solidity`
 
-**Frameworks & Libraries:**  
-`React` `Next.js` `Express` `Prisma` `Tailwind CSS` `JWT`
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS`
+
+**Backend:**  
+`Node.js` `Express` `REST APIs` `Authentication` `Webhooks`
 
 **Databases:**  
 `PostgreSQL` `MongoDB`
 
 **DevOps & Cloud:**  
-`Docker` `AWS (S3, EC2)` `Vercel` `Cloudflare`
+`AWS (EC2, S3)` `Docker` `Vercel` `Cloudflare`
 
 **Tools:**  
-`Git` `Postman` `Unix/Linux` `WebSockets`
+`Git` `Postman` `Linux` `WebSockets`
 
-**Core CS Subjects:**  
-`Operating Systems` `DBMS` `OOP` `Computer Networks` `DSA`
-
-**Problem Solving:**  
-Solved **200+ coding questions** across LeetCode, GeeksforGeeks, and CodeStudio  
+**Core Concepts:**  
+`OS` `DBMS` `OOP` `Computer Networks` `DSA`
 
 ---
 
-## 🌐 Let's Connect
+## 📜 Certifications
 
-📧 biraj.kashyap2022@vitstudent.ac.in  
-🔗 [Portfolio](https://birajkashyap.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/biraj-kashyap-2194b0226/) • [GitHub](https://github.com/birajkashyap)
+- Full Stack Web Development — MERN Stack  
+- Blockchain Developer — IBM SkillsNetwork  
+
+---
+
+## 🧠 Additional
+
+- Solved **200+ DSA problems** across LeetCode, GFG, and CodeStudio  
+- Strong focus on **system design and scalable architecture**  
+- Experience building **AI-powered workflows and real-time systems**
+
+---
+
+## 📊 GitHub Stats
 
 ![Biraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=birajkashyap&show_icons=true&theme=radical)
